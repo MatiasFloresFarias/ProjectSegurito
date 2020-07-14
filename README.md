@@ -6,7 +6,7 @@ _Desarrollo de aplicacion de gestion de accidentes de una empresa de prevencion 
 
 ## Construido con 🛠️
 
-_Herramientas utilizadas para el desarrollo del proyecto_
+_Herramientas utilizadas para el desarrollo del proyecto, _
 _Project web dynamic java_
 
 
