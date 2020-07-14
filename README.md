@@ -2,11 +2,12 @@
 
 [![INSERT YOUR GRAPHIC HERE](https://github.com/Jktolorza/SeguritoProject/blob/master/WebContent/prevencion.png)]()
 
-_Desarrollo de aplicacion de gestion de accidentes de una empresa de prevencionistar de riesgos_
+_Desarrollo de aplicacion de gestion de accidentes de una empresa de prevencion de riesgos._
 
 ## Construido con 🛠️
 
 _Herramientas utilizadas para el desarrollo del proyecto_
+_Project web dynamic java_
 
 
 * [Java jdk8](https://www.oracle.com/cl/java/technologies/javase/javase-jdk8-downloads.html) - JDK utilizado
