@@ -16,7 +16,10 @@ _Project web dynamic java_
 * [Boostrap](https://getbootstrap.com/) - Manejador de diseño
 * [Datapicker JQuery](https://jqueryui.com/datepicker/) - Manejador de fechas
 * [GITHB](https://github.com/Jktolorza/SeguritoProject) - Manejador de versiones 
+### Capturas
+![Loggin](https://github.com/MatiasFloresFarias/ProjectSegurito/blob/master/Capturas/Captura.PNG)
 
+![Administrador de facturas](https://github.com/MatiasFloresFarias/ProjectSegurito/blob/master/Capturas/FireShot%20Capture%20006%20-%20Index%20-%20localhost.png)
 ### Diagrama
 
 ![D Modelo R](https://github.com/Jktolorza/SeguritoProject/blob/master/ModeloRelacionalBBDD.png)
